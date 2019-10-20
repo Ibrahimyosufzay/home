@@ -1,0 +1,32 @@
+ body
+{
+	font-family: "Trebuchet MS";
+	text-align: justify;
+	background: Red;
+	Font-size: 25px;
+}
+
+h1
+{
+    text-align: center;
+    color: Yellow;
+}
+
+h2
+{ 
+    color: green;
+} 
+
+h3
+{
+	color: White;
+	Font-size: 10px;
+}
+
+p
+{
+	text-align: justify;
+	color: white;
+}
+
+	
